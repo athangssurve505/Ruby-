@@ -1,8 +1,6 @@
-# Ruby-
-Ruby – A PCB Repair &amp; Production Tracking System that monitors lot-wise PCB movement across 13 processing stages, tracks failures, analyzes stage-wise performance, and evaluates engineer productivity through real-time dashboards and analytics.
 
-Ruby
 
+# Ruby 
 Ruby is a web-based PCB Repair & Production Tracking System designed to streamline and digitize the PCB refurbishment workflow. The platform enables organizations to track PCB lots throughout multiple processing stages, monitor pass/fail statistics, identify bottlenecks, and measure engineer performance using data-driven insights.
 
 Features
